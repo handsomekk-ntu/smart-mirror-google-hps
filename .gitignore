@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+software/TakePicture_QRcode/img/*.jpg
+software/TakePicture_QRcode/qrcode/*.png
+~$*
